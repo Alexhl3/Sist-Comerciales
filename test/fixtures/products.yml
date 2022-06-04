@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+Maquina_14:
+  title: Maquina 14
+  description: Maquina en buen estado.
+  price: 200
+
+Mauqina_2:
+  title: Mauqina 2
+  description: Maquina le falta carcasa.
+  price: 100
